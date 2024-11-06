@@ -1,0 +1,5 @@
+# Ignore all files
+*
+
+# Exclude the 'quiz_game.py' file from being ignored
+!quiz_game.py
